@@ -1,0 +1,8 @@
+name: AnonimMask
+version: '1.0-SNAPSHOT'
+main: com.github.firerozha.anonimmask.AnonimMask
+api-version: 1.16
+prefix: AnonimMask
+depend: [Vault]
+authors: [ FireRoz ]
+description: Mask your name

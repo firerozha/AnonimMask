@@ -1,0 +1,14 @@
+# AnonimMask Made by FireRoz
+# Here you customise the custom item that when it's right clicked you will be masked.
+# Material list can be found over here: https://helpch.at/docs/1.16.2/org/bukkit/Material.html
+item:
+  # The name of the item. If it's set to null then it is the item's default name
+  displayName: "hi"
+  lore:
+    - "§ahi"
+  itemMaterial: DIAMOND
+# The message that shows when a player activates anonymous mode
+anonymousMessage: "&aYou have activated anonymous mode."
+# What should be the name of the skin that the player gets when activating anonymous mode?
+# Use namemc to look for your desired skin then set this value to the name of the player
+skinName: "q6f4f7"

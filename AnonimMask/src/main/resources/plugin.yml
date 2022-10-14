@@ -1,0 +1,8 @@
+name: AnonimMask
+version: '${project.version}'
+main: com.github.firerozha.anonimmask.AnonimMask
+api-version: 1.16
+prefix: AnonimMask
+depend: [Vault SkinRestorer]
+authors: [ FireRoz ]
+description: Mask your name
